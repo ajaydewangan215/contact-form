@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/contact-form/static/css/main.0888ce2d.chunk.css",
-    "main.js": "/contact-form/static/js/main.4724a483.chunk.js",
-    "main.js.map": "/contact-form/static/js/main.4724a483.chunk.js.map",
+    "main.js": "/contact-form/static/js/main.3d6b4438.chunk.js",
+    "main.js.map": "/contact-form/static/js/main.3d6b4438.chunk.js.map",
     "runtime-main.js": "/contact-form/static/js/runtime-main.6b9ff4d1.js",
     "runtime-main.js.map": "/contact-form/static/js/runtime-main.6b9ff4d1.js.map",
     "static/css/2.155f6fba.chunk.css": "/contact-form/static/css/2.155f6fba.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.155f6fba.chunk.css",
     "static/js/2.663ee113.chunk.js",
     "static/css/main.0888ce2d.chunk.css",
-    "static/js/main.4724a483.chunk.js"
+    "static/js/main.3d6b4438.chunk.js"
   ]
 }
