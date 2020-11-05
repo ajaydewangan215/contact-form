@@ -31,7 +31,7 @@ function App() {
     <>
       <div className="container">
         <div className="card w-50 mx-auto my-2 p-5">
-        <h1>Contact Form</h1>
+        <h1>Contact Form Using ReactJS</h1>
           <form onSubmit={submitAction}>
             <div className="form-group my-4">
               <label htmlFor="name" className="form-label">Name</label>
